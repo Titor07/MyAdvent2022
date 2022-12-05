@@ -14,3 +14,10 @@ Sorting the tab would have been much more elegant but not necessarily more effic
 ### Javascript
 
 Nothing to report except my code isn't elegant
+
+## Day 3
+
+### Javascript
+
+part two is coming soon
+Reduce is cool ! 
