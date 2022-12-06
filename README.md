@@ -28,3 +28,12 @@ But reducing seems to be powerful !
 
 Just one thing : don't forget to map after splitting a string
 Execpt that nothing to report
+
+## Day 5
+
+### Javascript
+
+Still not using .reduce. First part was fun.
+
+WARNING : copy by reference IS NOT deep copy !!
+I believed I made a deep copy of an array but that wasn't the case.
