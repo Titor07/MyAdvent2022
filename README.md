@@ -37,3 +37,13 @@ Still not using .reduce. First part was fun.
 
 WARNING : copy by reference IS NOT deep copy !!
 I believed I made a deep copy of an array but that wasn't the case.
+
+## Day 6
+
+### Javascript
+
+I've been catching up.
+Nothing to report for part one.
+
+Some difficulties with disclosures and sort() in the second part
+
