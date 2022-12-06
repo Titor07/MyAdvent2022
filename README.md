@@ -19,5 +19,5 @@ Nothing to report except my code isn't elegant
 
 ### Javascript
 
-part two is coming soon
-Reduce is cool ! 
+Using reducing is not obvious, I finally chosed to make a loop to treat my input ... I'm looking to change that in the next few days.
+But reducing seems to be powerful !
