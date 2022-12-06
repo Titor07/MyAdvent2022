@@ -21,3 +21,10 @@ Nothing to report except my code isn't elegant
 
 Using reducing is not obvious, I finally chosed to make a loop to treat my input ... I'm looking to change that in the next few days.
 But reducing seems to be powerful !
+
+## Day 4
+
+### Javascript 
+
+Just one thing : don't forget to map after splitting a string
+Execpt that nothing to report
