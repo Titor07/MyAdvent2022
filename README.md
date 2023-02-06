@@ -47,3 +47,6 @@ Nothing to report for part one.
 
 Some difficulties with disclosures and sort() in the second part
 
+## Week 2-3
+
+Beaucoup de difficulté à modéliser les problèmes et à utiliser les bonnes structures de données ... Même si j'ai passé du temps à débuguer certains problèmes étaient fun !
