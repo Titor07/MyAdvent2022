@@ -1,7 +1,5 @@
 # Changement de repo !!! Lien des autres jours et autres années : https://github.com/TitorSWE/MyAdvent22
 
-# MyAdvent2022
-
 ## Day 1
 
 ### Javascript
